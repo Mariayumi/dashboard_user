@@ -1,0 +1,11 @@
+/* 1. Ocultar o outline padrão no focus-visible e a seta nativa no select */
+.seletor:focus-visible {
+    outline: none;
+}
+
+.seletor {    
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+    background-size: 16px; 
+    padding-right: 16px; 
+}
