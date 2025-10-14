@@ -19,7 +19,7 @@ Optei por desenvolver a aplicação utilizando React e TypeScript para garantir 
 
 | Figma         | React         |
 | ------------- |:-------------:| 
-| <img width="969" height="677" alt="dashboard_user_figma" src="https://github.com/user-attachments/assets/0a8f994b-14d7-4e1a-bff5-d0282a63143e" /> | <img width="935" height="726" alt="Captura de tela de 2025-10-14 10-20-32" src="https://github.com/user-attachments/assets/14ded286-9b40-4409-9c47-bd26432ae222" /> |
+| <img width="969" height="677" alt="dashboard_user_figma" src="https://github.com/user-attachments/assets/0a8f994b-14d7-4e1a-bff5-d0282a63143e" /> | <img width="935" height="726" alt="Captura de tela de 2025-10-14 10-20-32" src="https://github.com/user-attachments/assets/2687c434-db97-4f7c-97a5-78e6b1da76ff" /> |
 
 ## 🔗 Acesso ao Projeto
 - Link para o desafio: [UXQuest](https://www.linkedin.com/posts/ux-quest_uxquest-minidesafio-uxdesign-activity-7379545734657953792-cKwJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADf4MlUBzIk634HJxj0vfG0So2C-uuLbois])
