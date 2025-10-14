@@ -25,9 +25,10 @@ Optei por desenvolver a aplicação utilizando React e TypeScript para garantir 
 - Link para o desafio: [UXQuest](https://www.linkedin.com/posts/ux-quest_uxquest-minidesafio-uxdesign-activity-7379545734657953792-cKwJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADf4MlUBzIk634HJxj0vfG0So2C-uuLbois])
 - Link para o preview do Figma: [Figma](https://www.figma.com/proto/auRNjhNwvmDOkFpD9nPW2O/Mariana?node-id=338-3&t=Sp6JbIrVNaoVkVAC-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 - Link para o meu Linkedin: [marianatamay](https://www.linkedin.com/in/marianatamay/)
+- 
 ## 💡 Como Rodar o Projeto (Opcional)
 Se você deseja incluir instruções para que outros testem o seu projeto:
-- Clone o repositório: git clone [[link do seu repositório]](https://github.com/Mariayumi/dashboard_user.git)
+- Clone o repositório: git clone https://github.com/Mariayumi/dashboard_user.git
 - Instale as dependências: npm install ou yarn install
 - Inicie a aplicação: npm start ou yarn start
 O projeto estará acessível em http://http://localhost:5173/
